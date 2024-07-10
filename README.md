@@ -12,7 +12,7 @@ The Log Simulator tool, developed by Hud Daannaa, provides a user-friendly graph
 
 ### Interface Description
 
-![Log Simulator Interface](image.png)
+![Log Simulator Interface](https://github.com/huddaannaa/Log-Simulator/blob/main/log_simulator.JPG)
 
 ### Main Components
 
